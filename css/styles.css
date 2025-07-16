@@ -1215,7 +1215,6 @@ input[type='checkbox'] {
 .image-container img {
 	border-radius: 8px;
     box-shadow: 0 0 30px rgba(77, 105, 226, 0.2);
-	height: 400px;
 }
 
 @media (max-width: 550px) {
